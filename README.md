@@ -22,7 +22,7 @@ mkdir experiment; mkdir data
 ```
 
 ## Quickstart 
-* Train the PRR-FL with default settings:
+* Train the PRR-Imbalance with default settings:
 ```python
 python ./main.py --theme prr-imbalance --iters 50 --wk_iters 5 --network vgg_nb --l_rate 0.7 --lr 1e-2 
 ```
