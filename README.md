@@ -1,7 +1,7 @@
 # Personalized Retrogress-Resilient FL for Imbalanced Medical Data (PRR-Imbalance)
 
 
-<div align=center><img width="700" src=/figs/framework.png></div>
+<div align=center><img width="750" src=/figs/framework.png></div>
 
 ### Download
 The dermoscopic FL dataset can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1N4bNcy09nizkEi___venM0su0hf23jO_?usp=sharing). Put the downloaded ```clientA```, ```clientB```, ```clientC``` and ```clientD``` subfolders in a newly-built folder ```./data/```.
