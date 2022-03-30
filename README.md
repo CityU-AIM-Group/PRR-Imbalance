@@ -1,6 +1,7 @@
 # Personalized Retrogress-Resilient FL for Imbalanced Medical Data (PRR-Imbalance)
 
-## Personalized Retrogress-Resilient FL Framework for Imbalanced Medical Data
+
+<div align=center><img width="600" src=/figs/framework.png></div>
 
 ### Download
 The dermoscopic FL dataset can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1N4bNcy09nizkEi___venM0su0hf23jO_?usp=sharing). Put the downloaded ```clientA```, ```clientB```, ```clientC``` and ```clientD``` subfolders in a newly-built folder ```./data/```.
@@ -18,7 +19,7 @@ Clone this repository into any place you want.
 ```bash
 git clone https://github.com/CityU-AIM-Group/PRR-Imbalance.git
 cd PRR-Imbalance
-mkdir experiment; mkdir data
+mkdir data
 ```
 
 ## Quickstart 
