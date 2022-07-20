@@ -1,5 +1,5 @@
 # Personalized Retrogress-Resilient FL for Imbalanced Medical Data (PRR-Imbalance)
-
+This repository is an official PyTorch implementation of the paper **"Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data"** [[paper](https://www.researchgate.net/publication/362120723_Personalized_Retrogress-Resilient_Federated_Learning_Towards_Imbalanced_Medical_Data)] from IEEE Transactions on Medical Imaging (TMI) 2022.
 
 <div align=center><img width="750" src=/figs/framework.png></div>
 
