@@ -27,3 +27,16 @@ mkdir data
 ```python
 python ./main.py --theme prr-imbalance --iters 50 --wk_iters 5 --network vgg_nb --l_rate 0.7 --lr 1e-2 
 ```
+
+## Cite
+If you find our work useful in your research or publication, please cite our work:
+```
+@ARTICLE{2022personalizedFL,
+  title={Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data}, 
+  author={Chen, Zhen and Yang, Chen and Zhu, Meilu and Peng, Zhe and Yuan, Yixuan},
+  journal={IEEE Transactions on Medical Imaging}, 
+  year={2022},
+  pages={1-1},
+  doi={10.1109/TMI.2022.3192483}
+}
+```
